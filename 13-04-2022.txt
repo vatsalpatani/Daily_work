@@ -5,3 +5,63 @@ how to check data-type, Arithmetic, Increament - Decreament , Equality and Relat
 Type test, Assignment, Conditional Expression , and etc....
 
 I am at 1:58min in Dart video .
+-------------------------------------------------------------------------------------------------------------------------------------------
+For The First time only
+
+git config --global user.name "Your Name  Here"
+
+git config  --global user.email "Your Email Address"
+
+ 
+
+git config --global user.name -> What is Name
+
+git config --global user.email -> What is Email
+
+Git Commands
+
+git init -> To Initialize a repository
+
+git log -> To know the last comits
+
+ls-> list all files present in repository
+
+ 
+
+touch filename_with_ext -> To create new file
+
+ 
+
+git status -> To check the changes on file or repo
+
+git add -> To add file on git folder (local)
+
+ 
+
+git add -A -> To add all files in local git 
+
+git commit -a -m "Whatever you want to commit"-> To comit something on branch
+
+git checkout -> To check last comit
+
+ 
+
+git rm --cached filename -> To remove it from repo to stage
+
+git rm filename -> To remove file from pc and repo
+
+ 
+
+git branch -> To know that on which branch you are
+
+git branch (branch_name) -> To move from one branch to another
+
+ 
+
+git merge -> To merge your code on main branch
+
+ 
+
+git push -> To push your code on global server
+
+git pull -> To get your code from a repository from global server
