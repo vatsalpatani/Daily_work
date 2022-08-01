@@ -65,3 +65,4 @@ git merge -> To merge your code on main branch
 git push -> To push your code on global server
 
 git pull -> To get your code from a repository from global server
+-------------------------------------------------------------------------------
