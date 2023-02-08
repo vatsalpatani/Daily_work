@@ -1,13 +1,7 @@
-Today I have learned Dart lang.
+Git commands
 
-I have Learned about Operators,Variables, Comments, Printing Variables, Built In Data types,
-how to check data-type, Arithmetic, Increament - Decreament , Equality and Relational , Logical 
-Type test, Assignment, Conditional Expression , and etc....
-nothing rakhing in learning,,,
-only do mojing ...
+--------------
 
-I am at 1:58min in Dart video .
--------------------------------------------------------------------------------------------------------------------------------------------
 For The First time only
 
 git config --global user.name "Your Name  Here"
@@ -67,4 +61,5 @@ git merge -> To merge your code on main branch
 git push -> To push your code on global server
 
 git pull -> To get your code from a repository from global server
+
 -------------------------------------------------------------------------------
